@@ -1,4 +1,4 @@
-# e-commerce-back-end-sequalize-mysql-james
+# james-e-commerce-back-end-sequalize-mysql
 
 ### Description
 
@@ -7,10 +7,6 @@
 
 ### App Demo
 
-
-- Create Schema and Seed data
-
-![](images/demo-6.gif)
 
 - GET routes to return all categories, all products
 
@@ -27,10 +23,6 @@
 - POST, PUT, and DELETE routes for Tags
 
 ![](images/demo-4.gif)
-
-- POST, PUT, and DELETE routes for products
-
-![](images/demo-5.gif)
 
 ### User Story
 
@@ -166,7 +158,7 @@ Project is created with
 To get started clone this repository using 
 <br>
 ```terminal
-git clone git@github.com:BennAsabir/employee-tracker.git
+git clone https://github.com/Okingiboy/james-e-commerce-back-end-sequalize-mysql.git
 ```
 Both Node.js and MySQL must be installed on your computer.
 
@@ -205,3 +197,15 @@ This repository is licensed under the MIT license.
 
 ## Questions
 Questions about this repository? Please contact me at [okoriechukwu@yahoo.com](mailto:okoriechukwu@yahoo.com). View more of my work in GitHub at [okingiboy](https://github.com/okingiboy) 
+
+
+* **james chukwu** 
+
+- [Link to Portfolio Site](https://okingiboy.github.io/developer-profile-html-css-js-git-james/)
+
+- [Link to Github](https://github.com/Okingiboy)
+
+- [Link to LinkedIn](https://www.linkedin.com/in/james-chukwu-238b3446/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BEHZLwPjTTfGgZGF1o%2FlQ%2Bg%3D%3D)
+
+
+- [Link to URL](https://github.com/Okingiboy/james-e-commerce-back-end-sequalize-mysql)
